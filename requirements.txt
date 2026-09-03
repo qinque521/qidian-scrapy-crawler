@@ -1,0 +1,4 @@
+Scrapy>=2.11,<3.0
+selenium>=4.6
+lxml>=4.9
+requests>=2.28
